@@ -1,0 +1,7 @@
+{
+  "name": "high-point-lounge",
+  "private": true,
+  "scripts": {
+    "start": "python -m http.server 8000"
+  }
+}
